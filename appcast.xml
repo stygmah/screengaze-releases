@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:screengaze="https://screengaze.studio/xml-namespaces/updates" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Screengaze updates</title>
+    <link>https://screengaze.studio</link>
+    <description>Official Screengaze updates.</description>
+    <item>
+      <title>Screengaze 0.4.23</title>
+      <pubDate>Tue, 10 Nov 2026 10:36:05 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.4.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;pre&gt;# Screengaze 0.4.23 beta
+
+## English
+
+- Record a screen, window or region with optional camera and audio. Edit the recording in Screengaze and export it as MP4 or GIF.
+- Connect Google Drive to share an exported video with a link.
+- Screengaze checks for signed updates and shows an in-app notice when a new version is available. Enable automatic installation in setup or Settings to prepare updates for the next time you quit.
+
+Install from the signed and notarized DMG by dragging Screengaze into Applications. This technical beta has passed a short recording, save, reopen and export test. Live purchase and activation, extended recordings and broader hardware checks are pending. Recovery of typing-focus zoom and handling of manually altered internal drafts still have open validation work.
+
+## Español
+
+- Graba una pantalla, una ventana o una región con cámara y audio opcionales. Edita la grabación en Screengaze y expórtala como MP4 o GIF.
+- Conecta Google Drive para compartir un vídeo exportado mediante un enlace.
+- Screengaze busca actualizaciones firmadas y muestra un aviso cuando hay una nueva versión. Activa la instalación automática durante la configuración inicial o en Ajustes para preparar la actualización y aplicarla al salir.
+
+Abre el DMG firmado y notarizado y arrastra Screengaze a Aplicaciones. Esta beta técnica ha superado una prueba breve de grabación, guardado, reapertura y exportación. Quedan pendientes la compra y activación en producción, las grabaciones prolongadas y las pruebas en más equipos. También queda por completar la validación de la recuperación del zoom de escritura y del manejo de borradores internos modificados a mano.
+&lt;/pre&gt;</description>
+      <enclosure url="https://github.com/stygmah/screengaze-releases/releases/download/v0.4.23/Screengaze-0.4.23-arm64.dmg" length="90824309" type="application/octet-stream" sparkle:edSignature="s0CCPU9QYQGC0yIYvvV0wkJPcex3vjsKmGRay2hVUWnq7/5fJMq87gU9AphB87HiML/l+bzGkTcgsH3s9raZDg==" screengaze:sha256="58a73d9647674f6fca9a586cd1c1669c21425de92c98728e2babd0e1b5bd15e5" />
+    </item>
+  </channel>
+</rss>
