@@ -5,6 +5,30 @@
     <link>https://screengaze.studio</link>
     <description>Official Screengaze updates.</description>
     <item>
+      <title>Screengaze 0.4.24</title>
+      <pubDate>Fri, 13 Nov 2026 02:25:45 GMT</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.4.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;pre&gt;# Screengaze 0.4.24 beta
+
+## English
+
+The export dialog marks Screengaze Pro options with a crown. On Free, resolution goes up to 720p, and MP4 export supports up to 30 fps with Compact or Balanced quality. If a saved setting exceeds those limits, the dialog shows the values available on Free.
+
+This technical beta is for Macs with Apple silicon. Live purchase and activation, extended recording tests, and broader hardware validation remain pending.
+
+## Español
+
+El cuadro de exportación marca con una corona las opciones de Screengaze Pro. En el plan Free, la resolución llega a 720p y la exportación MP4 admite hasta 30 fps con calidad Compacta o Equilibrada. Si un ajuste guardado supera esos límites, el cuadro muestra los valores disponibles en Free.
+
+Esta beta técnica es para Mac con Apple Silicon. Quedan pendientes la compra y activación en producción, las pruebas prolongadas de grabación y la validación en más equipos.
+&lt;/pre&gt;</description>
+      <enclosure url="https://github.com/stygmah/screengaze-releases/releases/download/v0.4.24/Screengaze-0.4.24-arm64.dmg" length="90828868" type="application/octet-stream" sparkle:edSignature="vJhDyCkh0YbUO3M/OU1zbVJGBTcbqh+WFfaiIzoQk5Zhw0rYO+RnjXkTWR5tzZ4qxs55mL3NBy+LswxbdFliAQ==" screengaze:sha256="800330d2c38f37322c77757cdfdea09b8cc8836cdd25c64c8335a91f321a28ac" />
+    </item>
+    <item>
       <title>Screengaze 0.4.23</title>
       <pubDate>Tue, 10 Nov 2026 10:36:05 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
