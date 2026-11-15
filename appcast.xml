@@ -5,6 +5,30 @@
     <link>https://screengaze.studio</link>
     <description>Official Screengaze updates.</description>
     <item>
+      <title>Screengaze 0.4.25</title>
+      <pubDate>Sun, 15 Nov 2026 16:38:01 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.4.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;pre&gt;# Screengaze 0.4.25 beta
+
+## English
+
+Switching between editor tabs now animates smoothly: the current panel slides away as the next one settles into place. The tab bar on the left now sits directly on the dark background. With Reduce Motion turned on, panels change instantly.
+
+This technical beta is for Macs with Apple silicon. Live purchase and activation, extended recording tests, and broader hardware validation remain pending.
+
+## Español
+
+Al cambiar de pestaña en el editor, el panel ahora cambia con una animación suave: el actual se desliza hacia fuera mientras el siguiente se coloca en su sitio. La barra de pestañas de la izquierda queda directamente sobre el fondo oscuro. Con Reducir movimiento activado, los paneles cambian al instante.
+
+Esta beta técnica es para Mac con Apple Silicon. Quedan pendientes la compra y activación en producción, las pruebas prolongadas de grabación y la validación en más equipos.
+&lt;/pre&gt;</description>
+      <enclosure url="https://github.com/stygmah/screengaze-releases/releases/download/v0.4.25/Screengaze-0.4.25-arm64.dmg" length="90843916" type="application/octet-stream" sparkle:edSignature="RVwabgQ8xo/k8UzGhfcdnqjg1MsT3PUESWfEU/kbVAQDu2qvWOndW+aXhwXadbXIWM4lOJl1qLRHeMukJ/PRDg==" screengaze:sha256="070b1687706a6718955adedb8399e684f194802415495b2ed58b42ec3adedcf7" />
+    </item>
+    <item>
       <title>Screengaze 0.4.24</title>
       <pubDate>Fri, 13 Nov 2026 02:25:45 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
